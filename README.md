@@ -1,3 +1,12 @@
+## Разработка
+
+```bash
+git clone https://github.com/1nf969/cheatsheet.git
+cd cheatsheet
+npm install
+npm start
+```
+
 # SQL · Excel · Google Sheets Cheatsheet
 
 Интерактивная шпаргалка аналитика на русском и английском языке.
